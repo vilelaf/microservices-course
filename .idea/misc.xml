@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/hr-eureka-server/pom.xml" />
         <option value="$PROJECT_DIR$/hr-api-gateway-zuul/hr-api-gateway-zuul/pom.xml" />
         <option value="$USER_HOME$/Downloads/hr-api-gateway-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/hr-api-gateway-zuul/pom.xml" />
       </list>
     </option>
   </component>
