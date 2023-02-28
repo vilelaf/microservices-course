@@ -13,7 +13,9 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 public class HrPayrollApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(HrPayrollApplication.class, args);
+
 	}
 
 }
